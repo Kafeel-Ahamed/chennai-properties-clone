@@ -377,9 +377,6 @@ h2 {
 }
 
 .grid-1 {
-    background-image: url(Images/Nest_Charisma_1.jpg);
-    background-size: cover;
-    background-position: center;
     border-radius: 5px;
     height: 40rem;
     width: 100%;
@@ -388,6 +385,41 @@ h2 {
     align-items: flex-end;
     justify-content: flex-end;
     gap: 1rem;
+}
+
+.bg-1,
+.bg-2,
+.bg-3,
+.bg-4,
+.bg-5,
+.bg-6 {
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-1 {
+    background-image: url(Images/Nest_Charisma_1.jpg);
+
+}
+
+.bg-2 {
+    background-image: url(Images/Stepsstone_Viraam_1.jpg);
+}
+
+.bg-3{
+    background-image:url(Images/Stepsstone_Vatsa_Amaze_1.jpg) ;
+}
+
+.bg-4{
+    background-image:url(Images/TVS_Emerald_Luxor_1.jpg) ;
+}
+
+.bg-5{
+    background-image:url(Images/Ramaniyam_Purna_Krishna_1.jpeg) ;
+}
+
+.bg-6{
+    background-image:url(Images/Card-Image4.jpg) ;
 }
 
 .grid-card-details-container {
