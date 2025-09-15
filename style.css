@@ -1379,6 +1379,10 @@ h2 {
         min-width: auto;
     }
 
+    .text-grid p {
+        text-align: left;
+    }
+
     .footer-content {
         width: 85%;
         color: #b9baba;
@@ -1475,7 +1479,7 @@ h2 {
 }
 
 
-    
+
 
 @media (max-width: 600px) {
     .carousel-item {
