@@ -635,6 +635,7 @@ h2 {
     border: none;
     background-color: rgba(10, 85, 190, 0.93);
     color: white;
+    font-size: 1.6rem;
 }
 
 .props-details {
@@ -655,31 +656,31 @@ h2 {
 
 /* Tips container */
 
-.tips {
+/* .tips {
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 2.5rem 0;
-}
+} */
 
-.tips-outer-container {
+/* .tips-outer-container {
     width: 85%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-}
+} */
 
-.head-tip {
+/* .head-tip {
     padding-bottom: 2.5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 1.5rem;
-}
+} */
 
 .head-tip p,
 .text-grid p {
@@ -868,17 +869,17 @@ h2 {
     margin: 3rem 0;
 }
 
-.ltc-in {
+/* .ltc-in {
     text-align: center;
 
-}
-
+} */
+/* 
 .ltc-out {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
+} */
 
 .ltc-details p,
 .ltc-details button {
