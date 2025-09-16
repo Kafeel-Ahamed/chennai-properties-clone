@@ -124,7 +124,7 @@ h2 {
 
 /* .header-content {
     background: linear-gradient(90deg, #5b3d91cc, rgba(225, 75, 97, 0.8)),
-        url(Images/bg-3.jpg);
+        url(/Images/bg-3.jpg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -404,28 +404,28 @@ h2 {
 }
 
 .bg-1 {
-    background-image: url(Images/Nest_Charisma_1.jpg);
+    background-image: url(/Images/Nest_Charisma_1.jpg);
 
 }
 
 .bg-2 {
-    background-image: url(Images/Stepsstone_Viraam_1.jpg);
+    background-image: url(/Images/Stepsstone_Viraam_1.jpg);
 }
 
 .bg-3{
-    background-image:url(Images/Stepsstone_Vatsa_Amaze_1.jpg) ;
+    background-image:url(/Images/Stepsstone_Vatsa_Amaze_1.jpg) ;
 }
 
 .bg-4{
-    background-image:url(Images/TVS_Emerald_Luxor_1.jpg) ;
+    background-image:url(/Images/TVS_Emerald_Luxor_1.jpg) ;
 }
 
 .bg-5{
-    background-image:url(Images/Ramaniyam_Purna_Krishna_1.jpeg) ;
+    background-image:url(/Images/Ramaniyam_Purna_Krishna_1.jpeg) ;
 }
 
 .bg-6{
-    background-image:url(Images/Card-Image4.jpg) ;
+    background-image:url(/Images/Card-Image4.jpg) ;
 }
 
 .grid-card-details-container {
@@ -755,7 +755,7 @@ h2 {
 /* steps dark blue container*/
 
 /* .steps-outer-container {
-    background: linear-gradient(#170635e6), url(Images/bg-dark-blue.jpg);
+    background: linear-gradient(#170635e6), url(/Images/bg-dark-blue.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
